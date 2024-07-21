@@ -1,16 +1,32 @@
-## Hi there 👋
+# Title Heading
+Insert LinkedIn link right here.
+<!-- <a href="LinkedInPageURL"><img src="https://img.shields.io/badge/-LinkedIn-0072b1&style=for-the-badge&logo=linkedinColor=white" /></a> -->
 
-<!--
-**QuixoteCantata/QuixoteCantata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
+<!-- This is a table in Markdown -->
+## Skills
+|Skill                    | Associated Project |
+| ------------------------|--------------------|
+|                         |                    |
+|                         |                    |
 
-Here are some ideas to get you started:
+## Tools
+[Provide tools and break them down into categories, the below are some examples]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Endpoint
+
+### Network
+
+### Cloud
+
+### SEIM
+
+
+## Certifications
+[Provide links to certifications you have earned]
+
+## Projects
+<!-- Examples -->
+- Detectio nLab <!-- You will insert the link to the project page here -->
+- SOC Automation Project
+
