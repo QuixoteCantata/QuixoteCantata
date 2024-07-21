@@ -7,7 +7,7 @@ Insert LinkedIn link right here.
 ## Skills
 |Skill                    | Associated Project |
 | ------------------------|--------------------|
-|                         |                    |
+|How to create a table and include links to GitHub Repositories|<a href=https://github.com/QuixoteCantata/Example-Lab-Page/tree/main>Example Lab</a>                    |
 |                         |                    |
 
 ## Tools
